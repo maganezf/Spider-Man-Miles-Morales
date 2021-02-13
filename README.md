@@ -14,8 +14,9 @@ You can visit a live website with this code [here](https://spider-man-miles-mora
 - CSS
 - SASS
 - Javascript
+- Tilt JS
 - JQuery
-- GSAP Library
+- GSAP Library (Motion Design)
 
 ## Used Tools and websites at development
 
@@ -23,4 +24,3 @@ Used Tools and websites at development
 
 - Figma - Design UI/UX
 - Google fonts
-- Tilt JS
