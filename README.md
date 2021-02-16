@@ -17,6 +17,7 @@ You can visit a live website with this code [here](https://spider-man-miles-mora
 - Tilt JS
 - JQuery
 - GSAP Library (Motion Design)
+- Netlify (hosting)
 
 ## Used Tools and websites at development
 
